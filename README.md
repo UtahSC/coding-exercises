@@ -20,3 +20,6 @@ If this is your first time leading a coding exercise you probably want to choose
 * [Roman Numeral Kata](https://github.com/UtahSC/roman-numeral-kata)
 * [Mastermind](https://github.com/UtahSC/mastermind)
 * [Xor Tag](http://xortag.apphb.com)
+
+## Additional katas
+The above list of example code katas is a great place to start, especially if this is your first time facilitating the coding exercise. But this is by no means an exhaustive list. There are many lists of code katas that various people have compiled, such as [this one](https://github.com/gamontal/awesome-katas). Or you can make up your own katas. If you need help knowing if a kata would be appropriate, please ask one of the meeting organizers.
